@@ -114,7 +114,8 @@ public class MainActivity extends AppCompatActivity {
    };
 }
 
-
+//this is comment
+//Hi
 /*************************************************************************
  * (C) Copyright 1992-2016 by Deitel & Associates, Inc. and               *
  * Pearson Education, Inc. All Rights Reserved.                           *
